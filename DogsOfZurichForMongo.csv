@@ -1,0 +1,101 @@
+_id,OwnerID,OwnersAge,Breed1,DogYearOfBirth,DogGender,DogColor
+5f2ca2ead764b610f2dfabed,126,51-60,Welsh Terrier,2011,f,black/brown
+5f2ca2ead764b610f2dfacd7,574,61-70,Cairn Terrier,2002,f,brindle
+5f2ca2ead764b610f2dfad09,695,41-50,Labrador Retriever,2012,f,brown
+5f2ca2ead764b610f2dfad0f,893,61-70,Schnauzer,2010,f,black
+5f2ca2ead764b610f2dfad37,1177,51-60,Shih Tzu,2011,m,black/white
+5f2ca2ead764b610f2dfad3d,4004,61-70,Dachshund,2010,m,brown
+5f2ca2ead764b610f2dfad3f,4050,41-50,Bichon Fris‚,2012,m,white
+5f2ca2ead764b610f2dfaded,4155,61-70,Miniature Dachshund,2002,m,black/grey
+5f2ca2ead764b610f2dfae00,4203,41-50,Labrador Retriever,2005,f,brown/black
+5f2ca2ead764b610f2dfaebe,4215,41-50,Border Collie,2001,m,black
+5f2ca2ead764b610f2dfaf26,4215,41-50,Bergamasco Shepherd,2004,f,black
+5f2ca2ead764b610f2dfaf30,4215,41-50,Bergamasco Shepherd,2001,f,grey/brown
+5f2ca2ead764b610f2dfafdb,4239,61-70,Pinscher,2013,f,brown/black
+5f2ca2ead764b610f2dfaff1,4261,71-80,Labrador Retriever,2012,f,beige
+5f2ca2ead764b610f2dfaff8,4281,61-70,Chihuahua,2011,f,light brown
+5f2ca2ead764b610f2dfb0cc,4281,61-70,Chihuahua,2014,f,black/white/brown
+5f2ca2ead764b610f2dfb0d7,4362,61-70,West Highland White Terrier,2002,m,white
+5f2ca2ead764b610f2dfb115,4726,51-60,Mixed Breed Small,2007,m,black
+5f2ca2ead764b610f2dfb13a,4726,51-60,Golden Retriever,2013,f,cream
+5f2ca2ead764b610f2dfb152,4786,41-50,Weimaraner,2013,f,silver
+5f2ca2ead764b610f2dfb1a3,4801,51-60,Tibetan Spaniel,2013,f,black/brown
+5f2ca2ead764b610f2dfb1b4,4880,51-60,Leonberger,2011,m,golden brown
+5f2ca2ead764b610f2dfb1df,4889,51-60,Shiba Inu,2003,f,red-brown
+5f2ca2ead764b610f2dfb1f3,4908,51-60,Mixed Breed Small,1999,f,light brown
+5f2ca2ead764b610f2dfb21a,4908,51-60,Mixed Breed Small,2000,m,black/brown/white
+5f2ca2ead764b610f2dfb23e,5088,51-60,Labrador Retriever,2014,f,black
+5f2ca2ead764b610f2dfb260,5113,51-60,Beagle,2010,f,tricolor
+5f2ca2ead764b610f2dfb27e,5225,61-70,Lagotto Romagnolo,2007,m,brown
+5f2ca2ead764b610f2dfb281,5227,61-70,Border Terrier,2011,f,tricolor
+5f2ca2ead764b610f2dfb2c7,5348,61-70,Viszla,2005,f,yellow
+5f2ca2ead764b610f2dfb30c,5361,61-70,Prager Rattler,2000,f,black/brown
+5f2ca2ead764b610f2dfb32e,5406,51-60,French Mastiff,2013,m,white/black
+5f2ca2ead764b610f2dfb398,6071,61-70,Cocker Spaniel,2014,m,black
+5f2ca2ead764b610f2dfb3ae,6103,51-60,Miniature Daschund,2009,f,red
+5f2ca2ead764b610f2dfb58d,6314,61-70,Jack Russel Terrier,2005,f,tricolor
+5f2ca2ead764b610f2dfb5ae,6321,51-60,Pug,2011,m,beige
+5f2ca2ead764b610f2dfb602,6364,61-70,Appenzeller,2013,m,tricolor
+5f2ca2ead764b610f2dfb65c,6469,41-50,Pug,2011,m,beige
+5f2ca2ead764b610f2dfb662,6594,51-60,Staffordshire Bull Terrier,2005,f,brown/white
+5f2ca2ead764b610f2dfb66d,6600,51-60,Mixed Breed Small,2004,m,brown
+5f2ca2ead764b610f2dfb68c,6617,61-70,Standard Poodle,2012,f,white
+5f2ca2ead764b610f2dfb706,6629,51-60,Spitz,1997,f,light brown
+5f2ca2ead764b610f2dfb774,6640,51-60,English Mastiff,2011,m,brown/white
+5f2ca2ead764b610f2dfb776,12349,51-60,English Springer Spaniel,2005,m,brown/white
+5f2ca2edd764b610f2dfb7bb,12371,51-60,Maltese,2001,f,white
+5f2ca2edd764b610f2dfb807,12409,61-70,Mixed Breed Small,2008,f,white/black/brown
+5f2ca2edd764b610f2dfb809,13119,51-60,Dobermann,2006,f,brown/red
+5f2ca2edd764b610f2dfb891,13140,51-60,Jack Russel Terrier,2002,f,tricolor
+5f2ca2edd764b610f2dfb8d3,13193,51-60,Long Haired Dachshund,2005,f,light brown
+5f2ca2edd764b610f2dfb8e1,14693,41-50,Chihuahua,2007,f,white/grey
+5f2ca2edd764b610f2dfb92b,15456,41-50,Chihuahua,2010,m,black
+5f2ca2edd764b610f2dfb971,18020,41-50,Labrador Retriever,2011,f,black
+5f2ca2edd764b610f2dfb973,18360,31-40,Husky,2010,f,white
+5f2ca2edd764b610f2dfb995,18805,41-50,Jack Russel Terrier,2008,m,tricolor
+5f2ca2edd764b610f2dfb9d2,19004,51-60,Maltese,2014,m,white
+5f2ca2edd764b610f2dfba21,19141,61-70,Bolonka Zwetna,2012,m,black
+5f2ca2edd764b610f2dfba24,19652,51-60,Mixed Breed Small,2007,f,brown
+5f2ca2edd764b610f2dfba25,19839,51-60,Labrador Retriever,2009,f,black
+5f2ca2edd764b610f2dfba48,20016,81-90,Kleinspitz,2011,m,black/brown/white
+5f2ca2edd764b610f2dfba76,20205,81-90,Toy Poodle,2001,f,black
+5f2ca2edd764b610f2dfbab7,20483,61-70,Terrier,2002,m,black/tan
+5f2ca2edd764b610f2dfbaea,20510,41-50,Berger Blanc Suisse,2006,m,white
+5f2ca2edd764b610f2dfbaff,20580,41-50,Chihuahua,2011,m,light brown
+5f2ca2edd764b610f2dfbb20,20762,51-60,Toy Poodle,2012,m,apricot
+5f2ca2edd764b610f2dfbb42,21270,41-50,Standard Poodle,2012,m,brown
+5f2ca2edd764b610f2dfbb79,21393,51-60,French Mastiff,2012,m,blue
+5f2ca2edd764b610f2dfbb7e,21828,71-80,Spitz,2013,m,white/beige
+5f2ca2edd764b610f2dfbb9e,21865,61-70,Fox Terrier,2005,m,tricolor
+5f2ca2edd764b610f2dfbba0,22186,41-50,Labrador Retriever,2009,m,black
+5f2ca2edd764b610f2dfbbb2,22378,51-60,Kooiker,2010,f,white/orange
+5f2ca2ead764b610f2dfa86c,22479,51-60,Mixed Breed Small,2001,f,grey brindle
+5f2ca2ead764b610f2dfa89a,22950,51-60,Poodle,2013,f,black
+5f2ca2ead764b610f2dfa8e9,22956,41-50,Cocker Spaniel,2014,m,orange roan
+5f2ca2ead764b610f2dfae96,23054,61-70,Cairn Terrier,2011,m,red/beige
+5f2ca2ead764b610f2dfaf02,23408,31-40,Yorkshire Terrier,2011,f,black and tan
+5f2ca2ead764b610f2dfaf0a,23493,61-70,Boxer,2013,m,brown/white
+5f2ca2ead764b610f2dfafe3,23887,81-90,Miniature Daschund,2001,m,black and tan
+5f2ca2ead764b610f2dfb153,23887,81-90,Miniature Dachshund,2014,f,brown
+5f2ca2ead764b610f2dfb62a,23889,61-70,Poodle,2012,m,brown
+5f2ca2edd764b610f2dfb927,24014,51-60,Yorkshire Terrier,2007,f,blue/tan
+5f2ca2edd764b610f2dfb9a8,24242,41-50,Belgan Shepard,2003,m,brown/black
+5f2ca2ead764b610f2dfa819,24246,51-60,Bergamasco Shepherd,2001,m,black/brown
+5f2ca2ead764b610f2dfa859,40684,71-80,Labrador Retriever,2004,m,blond
+5f2ca2ead764b610f2dfa862,44439,71-80,Border Collie,1999,m,black/white
+5f2ca2ead764b610f2dfa871,54322,71-80,Lagotto Romagnolo,2009,m,white/orange
+5f2ca2ead764b610f2dfa8ab,54926,81-90,Jack Russel Terrier,2002,m,tricolor
+5f2ca2ead764b610f2dfa8b3,55176,71-80,Dobermann,2003,f,black/brown
+5f2ca2ead764b610f2dfa8d5,55835,61-70,German Shepard,2004,f,black/grey
+5f2ca2ead764b610f2dfa8e1,56084,51-60,Berner Mountain Dog,2007,f,tri-color
+5f2ca2ead764b610f2dfa8e8,60244,51-60,Chow Chow,2002,f,black
+5f2ca2ead764b610f2dfa90c,60397,51-60,German Shepard,2005,f,grey/black
+5f2ca2ead764b610f2dfa911,60402,61-70,Mixed Breed Small,2013,m,dark brown
+5f2ca2ead764b610f2dfa917,60402,61-70,Border Terrier,2004,m,red/grey/black
+5f2ca2ead764b610f2dfa919,61323,71-80,Mudi,2010,m,blond
+5f2ca2ead764b610f2dfa922,62389,71-80,Boxer,2014,f,brindle
+5f2ca2ead764b610f2dfa927,62621,71-80,Papillon,2004,f,black/white
+5f2ca2ead764b610f2dfa932,62628,61-70,Yorkshire Terrier,2007,f,grey/brown
+5f2ca2ead764b610f2dfa993,63468,71-80,Mixed Breed Small,2003,m,brown/white
+5f2ca2ead764b610f2dfa9af,63704,71-80,Dachshund,2012,f,black and tan
+5f2ca2ead764b610f2dfa9b5,64202,71-80,Cairn Terrier,2002,f,beige/brown/black
