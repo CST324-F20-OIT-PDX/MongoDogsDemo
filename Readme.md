@@ -6,7 +6,7 @@ Note:  I'm a C++ programmer.  I am a good programmer, so I can pick up other lan
 
 1. Export a subset of the DogsOfZurichExample as a CSV and futz a little. 
 2. Import the CSV into my local MongoDB.
-	a - _id was an objectid, OnwerID an Int32 and DogYearOfBirth an Int32
+	a. _id was an objectid, OwnerID an Int32 and DogYearOfBirth an Int32
 3. Start this readme. 
 4. Add the mongo NuGet package.
 5. Add the mongo includes.
