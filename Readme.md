@@ -1,6 +1,6 @@
 This is a demo C#-> Mongo console app for CST324
 
-Note:  I'm a C++ programmer.  I am a good programmer, so I can pick up other languages fast.  AND, I may not be following all standard practice for C#.   If you see something that is weird for C#, then send me a polite email.  If you are  astudent you can get some extra credit.
+Note:  I'm a C++ programmer.  I am a good programmer, so I can pick up other languages fast.  AND, I may not be following all standard practice for C#.   If you see something that is weird for C#, then send me a polite email.  If you are  a student you can get some extra credit.
 
 # My Steps
 
