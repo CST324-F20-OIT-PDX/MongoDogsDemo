@@ -12,7 +12,7 @@ Note:  I'm a C++ programmer.  I am a good programmer, so I can pick up other lan
 6. Created the class for the database with a standard LoadRecords.
 7. Created the all in model for dogs
 8. Loaded the database and printed out a count of the records.
-9. Moved my DB and my DogModel to their own class and made it more specific (less generic)
+9. Moved my DB and my DogModel to their own c lass and made it more specific (less generic)
 10. Did a filter Query for breed
 11. Did a linq Query for Breed
 12. Did a breed print method
