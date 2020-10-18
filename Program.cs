@@ -13,14 +13,18 @@ namespace MongoDogsDemo
 
             count_dogs(db);
 
-            Console.WriteLine("--  --");
-            findBreeds(db, "Welsh Terrier");
-            findBreeds(db, "Scooby Doo");
+            Console.WriteLine("-- Filter --");
+
+            filter_FindBreeds(db, "Welsh Terrier");
+            filter_FindBreeds(db, "Scooby Doo");
+
+            Console.WriteLine("\n-- LinqBreed --");
 
             LinqBreed(db, "Welsh Terrier");
+            LinqBreed(db, "Scooby Doo");
 
             //  This is my ending tag just so I know that I didn't abort.
-            Console.WriteLine("-- Dogs of Zurich --");
+            Console.WriteLine("\n-- Dogs of Zurich --");
         }
 
         private static void count_dogs(MongoDogDB db)
@@ -34,28 +38,29 @@ namespace MongoDogsDemo
 
             Console.WriteLine($"\nRecords: {count}");
         }
-        private static void findBreeds(MongoDogDB db, string input_breed)
+        private static void filter_FindBreeds(MongoDogDB db, string input_breed)
         {
             Console.WriteLine(input_breed);
 
-            var recs = db.findABreed(input_breed);
+            var recs = db.filter_FindABreed(input_breed);
 
             if (recs.Count == 0)
             {
-                Console.WriteLine($"{input_breed} not found");
+                Console.WriteLine($"  {input_breed} not found");
                 return;
             }
 
 
             foreach (var rec in recs)
             {
-                Console.WriteLine($"{rec.OwnerID}");
+                print_breed(rec);
+
             }
         }
         static void LinqBreed(MongoDogDB db, string input_breed)
         {
 
-            Console.WriteLine("-- LinqBreed --");
+
 
             var dogs = db.CallingAllDogs();
 
@@ -64,10 +69,16 @@ namespace MongoDogsDemo
                 where dog.Breed1 == input_breed
                 select dog).ToList();
 
+            if (breed_q.Count == 0)
+            {
+                Console.WriteLine($"  {input_breed} not found");
+                return;
+            }
+
             foreach (var b in breed_q)
                 print_breed(b);
 
-            Console.WriteLine("-- END LinqBreed --");
+
         }
         static void print_breed(DogModel b)
         {

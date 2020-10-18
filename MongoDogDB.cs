@@ -25,7 +25,7 @@ public class MongoDogDB
 
     }
 
-    public IList<DogModel> findABreed(string input_breed)
+    public IList<DogModel> filter_FindABreed(string input_breed)
     {
         var filter = Builders<DogModel>.Filter.Eq("Breed1", input_breed);
         return _dogCollection.Find(filter).ToList();
