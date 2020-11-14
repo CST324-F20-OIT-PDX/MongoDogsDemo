@@ -31,6 +31,17 @@ public class MongoDogDB
         return _dogCollection.Find(filter).ToList();
     }
 
+    // We'll change this in class to do other things.
+    public IList<DogModel> filter_FindFancy(string input_breed)
+    {
+        var filter = Builders<DogModel>.Filter.Gt("Breed1", input_breed);
+        // & Builders<DogModel>.Filter.Gt("DogYearOfBirth", 2007);
+        // you can do and several ways I used &
+
+        // var explore  = Builders<DogModel>.Filter.
+
+        return _dogCollection.Find(filter).ToList();
+    }
 
 
 }
